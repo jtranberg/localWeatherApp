@@ -14,12 +14,12 @@ function positionSuccess({ coords }) {
 (renderWeather)
 .catch(e => {
   console.error(e)
-  alert("error getting weather.")
+  alert("Error getting weather info.")
 })
 }
 
 function positionError() {
-alert("error getting your position. Please allow us to use your location and refresh the page")
+alert("Error getting your position. Please allow us to use your location and refresh the page")
 }
 
 

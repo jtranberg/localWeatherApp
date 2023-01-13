@@ -62,7 +62,7 @@ body {
   color: hsl(200, 100%, 20%);
 }
 .value-sub-info {
-  font-weight:lighter;
+ font-weight: 600;
   font-size: 0.75rem;
 }
 .day-section {
